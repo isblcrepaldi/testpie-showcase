@@ -1,3 +1,5 @@
+**IN PROGRESS**
+
 I use my son's nap time to build digital stuff for fun.
 
 I am not a developer! I wanted to learn more about Git, system design, UX/UI standards, and CI/CD, so I jumped at the opportunity to use AI for practice.
